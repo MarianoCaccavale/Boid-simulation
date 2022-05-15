@@ -1,0 +1,1 @@
+Simple implementation of the boids algorithm, hopefully.
